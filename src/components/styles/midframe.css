@@ -1,0 +1,21 @@
+#mid-frame{
+    box-sizing: border-box;
+  
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    gap: 20px;
+    
+    position: absolute;
+    width: 1611px;
+    height: 60px;
+    left: 23px;
+    top: 118px;
+    
+    border: 1px solid #D0D4DA;
+    border-radius: 20px;
+  }
